@@ -13,7 +13,7 @@
 | SC-5 | PM Artifacts | WBS, Gantt, burndown, risk log |
 
 ### 2. PM Artifacts (all public)
-- 🔗 [Google Sheets WBS]("https://docs.google.com/spreadsheets/d/1DaH-GM3Xk1LulZfALOCa0kgvki4GLQiJajVIdGPr1zU/edit?usp=sharing")  
+- 🔗 [Google Sheets WBS](https://docs.google.com/spreadsheets/d/1DaH-GM3Xk1LulZfALOCa0kgvki4GLQiJajVIdGPr1zU/edit?usp=sharing)  
 - 📊 Excel Gantt & Tracker (`/docs/WBS-DevOps Mini.xlsx`)  
 - 📋 ClickUp Board screenshot (`/docs`)  
 - 📈 Jira screenshots (`/docs/jira`)  
